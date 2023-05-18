@@ -39735,7 +39735,7 @@ q=A.P("INCLUSEE INFO",f,f,f,f,f,f)
 A.Y()
 A.fP()
 p=t.t
-q=A.bY(A.a([r,new A.bv(new A.ac(0,0,40,0),f,f),q,new A.bv(new A.ac(0,0,40,0),f,f),A.P("Inclusee 2.0.10b",f,f,f,f,f,f),A.bH(f,f,100)],p),B.l,f,B.n,B.j)
+q=A.bY(A.a([r,new A.bv(new A.ac(0,0,40,0),f,f),q,new A.bv(new A.ac(0,0,40,0),f,f),A.P("Inclusee 2.0.11b",f,f,f,f,f,f),A.bH(f,f,100)],p),B.l,f,B.n,B.j)
 A.Y()
 q=A.nv(A.a([new A.o7(1.8*$.bI).q8(a)],p),!0,g.d,!0,q)
 r=g.c.I(s).f
@@ -41384,7 +41384,7 @@ BS(a,b){var s,r,q,p,o,n,m="In2Travel \n Off to Fiji"
 for(s=B.bp,r=0;r<6;++r){q=B.eC[r]
 if(q.b===a)s=q}p=t.Em
 o=t.bD
-n=A.ad([B.dc,A.ad([0,"All times \n in AEST",1,"Monday 22/05",2,"Tuesday 23/05",3,"Wednesday 24/05",4,"Thursday 25/05",5,"Friday 26/05"],p,o),B.bp,A.ad([0,"9:30am to 11:00am",1,"Digital Help Desk",2,m,3,m,4,"Learn2GetStarted",5,"In2ESafety \n NBN & ID Care"],p,o),B.dd,A.ad([0,"11:00am to 1:00pm",1,"Lunch Club",2,"Lunch Club \n Laughter Yoga",3,"In2Wellness \n Nutrition Australia",4,"Lunch Club",5,"Lunch Club"],p,o),B.de,A.ad([0,"1:00pm to 3:00pm",1,"Learn2StoryTell \n Robyn Moore",2,"In2Craft",3,"In2Gardening \n The Nurso Field Trip",4,"In2Trivia \n Ellen Biggs",5,"Happy Hour \n Maurie Voisey-Barlin"],p,o),B.df,A.ad([0,"3:00pm to 4:30pm",1,"In2Pets \n RSPCA Field Trip",2,"In2Singing \n Rosie Grayson",3,"In2Games \n Eddie Spaghetti",4,"In2Sheds \n 16:00 to 17:00 AEST"],p,o),B.dg,A.ad([0,"4:30pm to 6:00pm",1,"",2,"",3,"",4,"In2Books \n Author Tess Rowley"],p,o)],t.VS,t.iN).h(0,s).h(0,b)
+n=A.ad([B.dc,A.ad([0,"All times \n in AEST",1,"Monday 22/05",2,"Tuesday 23/05",3,"Wednesday 24/05",4,"Thursday 25/05",5,"Friday 26/05"],p,o),B.bp,A.ad([0,"9:30am to 11:00am",1,"Digital Help Desk",2,m,3,m,4,"Learn2GetStarted",5,"In2ESafety \n NBN & ID Care"],p,o),B.dd,A.ad([0,"11:00am to 1:00pm",1,"Lunch Club",2,"Lunch Club \n Laughter Yoga",3,"In2Wellness \n Nutrition \n Australia",4,"Lunch Club",5,"Lunch Club"],p,o),B.de,A.ad([0,"1:00pm to 3:00pm",1,"Learn2StoryTell \n Robyn Moore",2,"In2Craft",3,"In2Gardening \n The Nurso \n Field Trip",4,"In2Trivia \n Ellen Biggs",5,"Happy Hour \n Maurie \n Voisey-Barlin"],p,o),B.df,A.ad([0,"3:00pm to 4:30pm",1,"In2Pets \n RSPCA Field Trip",2,"In2Singing \n Rosie Grayson",3,"In2Games \n Eddie Spaghetti",4,"In2Sheds"],p,o),B.dg,A.ad([0,"4:30pm to 6:00pm",1,"",2,"",3,"",4,"In2Books \n with Author \n Tess Rowley"],p,o)],t.VS,t.iN).h(0,s).h(0,b)
 return n==null?"":n},
 a8m(a,b){var s,r,q,p,o,n,m,l,k,j,i="assets/img/icons/interests/inclusee_tile_pale.png",h="assets/img/icons/interests/thirds/In2Travel.png",g="assets/img/icons/interests/thirds/Lunch Club.png"
 for(s=B.bp,r=0;r<6;++r){q=B.eC[r]
