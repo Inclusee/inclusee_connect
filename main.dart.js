@@ -39735,7 +39735,7 @@ q=A.P("INCLUSEE INFO",f,f,f,f,f,f)
 A.Y()
 A.fP()
 p=t.t
-q=A.bY(A.a([r,new A.bv(new A.ac(0,0,40,0),f,f),q,new A.bv(new A.ac(0,0,40,0),f,f),A.P("Inclusee 2.0.8b",f,f,f,f,f,f),A.bH(f,f,100)],p),B.l,f,B.n,B.j)
+q=A.bY(A.a([r,new A.bv(new A.ac(0,0,40,0),f,f),q,new A.bv(new A.ac(0,0,40,0),f,f),A.P("Inclusee 2.0.10b",f,f,f,f,f,f),A.bH(f,f,100)],p),B.l,f,B.n,B.j)
 A.Y()
 q=A.nv(A.a([new A.o7(1.8*$.bI).q8(a)],p),!0,g.d,!0,q)
 r=g.c.I(s).f
@@ -41444,7 +41444,7 @@ A.ajC.prototype={
 $1(a){var s=this,r=null,q=4281572235,p=A.vE(B.f,2),o=A.P(s.d,r,r,r,A.aj(r,r,new A.O(q),r,r,r,r,r,r,r,r,50,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.dW,r),n=s.a,m=s.e,l=s.f,k=A.P(n.MJ(m,l),r,r,r,A.aj(r,r,new A.O(q),r,r,r,r,r,r,r,r,35,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),j=A.anC(r,r,new A.O(q),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
 j=A.bC(A.P("Add to Google Calendar",r,r,r,A.aj(r,r,B.f,r,r,r,r,r,r,r,r,30,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.ajA(n,m,l),j)
 l=A.anC(r,r,new A.O(q),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
-return A.kg(r,r,A.ap(r,A.bg(A.a([o,new A.bv(new A.ac(0,0,0,10),r,r),k,new A.bv(new A.ac(0,0,0,10),r,r),j,new A.bv(new A.ac(0,0,0,10),r,r),A.bC(A.P("Close",r,r,r,A.aj(r,r,B.f,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.ajB(a),l)],t.t),B.l,B.hZ,B.j),r,r,new A.bP(B.f,r,p,r,r,r,B.G),s.b*0.5,r,r,s.c*0.5),B.B,r,B.bg,r)},
+return A.kg(r,r,A.ap(r,A.bg(A.a([o,new A.bv(new A.ac(0,0,0,10),r,r),k,new A.bv(new A.ac(0,0,0,10),r,r),j,new A.bv(new A.ac(0,0,0,10),r,r),A.bC(A.P("Close",r,r,r,A.aj(r,r,B.f,r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.ajB(a),l)],t.t),B.l,B.hZ,B.j),r,r,new A.bP(B.f,r,p,r,r,r,B.G),s.b,r,r,s.c),B.B,r,B.bg,r)},
 $S:22}
 A.ajA.prototype={
 $0(){return this.a.oq(this.b,this.c)},
@@ -41461,7 +41461,7 @@ $2(a,b){var s=null,r=A.vB(10),q=this.a,p=q.d,o=A.ae(p).j("aq<1,oi*>")
 return A.ap(s,A.bY(A.au(new A.aq(p,new A.ajx(q,b,a),o),!0,o.j("bm.E")),B.l,s,B.tK,B.j),s,s,new A.bP(B.f,s,s,r,s,s,B.G),s,new A.ac(0,5,0,5),new A.ac(10,10,10,10),s)},
 $S:230}
 A.ajx.prototype={
-$1(a){var s=null,r=this.a,q=this.b,p=this.c,o=t.w,n=q===0?p.I(o).f.a.b/15:p.I(o).f.a.b/7
+$1(a){var s=null,r=this.a,q=this.b,p=this.c,o=t.w,n=q===0?p.I(o).f.a.b/15:p.I(o).f.a.b/5
 o=p.I(o).f
 return A.a_Y(!1,!0,new A.bv(B.bI,A.e2(B.W,A.a([A.ap(s,A.dX(r.a8m(a,q),B.cq,s,s),s,s,s,n,s,s,o.a.a/7),A.P(r.BS(a,q),s,s,s,A.aj(s,s,B.f,s,s,s,s,s,"Arial",s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.b9,s)],t.t),B.aj,s),s),s,!0,s,s,s,s,s,s,s,s,s,new A.ajw(r,a,q),s,s,s,s)},
 $S:229}
