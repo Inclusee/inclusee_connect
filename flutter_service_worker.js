@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d59a618721af6b3ce207445788a424af",
+  "assets/AssetManifest.json": "9ac9b585cea84b5f2d65f9968bbc2c00",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -105,6 +105,7 @@ const RESOURCES = {
 "assets/assets/img/icons/event/nurso.png": "a66272e62db1e14febce8e05c9e6e381",
 "assets/assets/img/icons/event/omaicon.png": "ca0ff1eeb87117b606674b71683a27c5",
 "assets/assets/img/icons/event/vowicon.png": "838c81c47f036fa08e83226bd975375f",
+"assets/assets/img/icons/event/weaad.png": "e1b0ef254aa9e190c3003ff86dd3ab9c",
 "assets/assets/img/icons/inclusee/incluseeconnect.png": "3eaf56be1612a2da888b3c39f3d252ee",
 "assets/assets/img/icons/inclusee/incluseelogo.png": "f4b3f4f98541961f60f278a0565f491e",
 "assets/assets/img/icons/inclusee/incluseelogosmall.png": "778723bf1d02ccda24cb106349e82896",
@@ -114,6 +115,16 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/In2Bingo.png": "1b9e2a928e8222e571c3e529f379342b",
 "assets/assets/img/icons/interests/In2Books.png": "be37658db5c18a4e66cf7525b8664617",
 "assets/assets/img/icons/interests/In2Craft.png": "c189e180e99b3d941748f48a21086442",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520connecting.png": "088cbd02ba883c412f881cea967e249d",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520facebook.png": "594d577ca44c00f0b72f1a34d5e87a43",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520hometech.png": "75fde82a327ef62dca973c6b95783dee",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520scam.png": "6f9a07ff6eb9ea15e6a19758bfe10c5d",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520scams.png": "33c53d38cddd8519a57fc666691c3c68",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520selling.png": "06bcad7e2e2a2adb5c0729a21816f666",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520shopping.png": "b4aa39888e11a255e99e827c65b664b1",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520techandhealth.png": "4000bf8729fd0793e60f8f6562bab257",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520websites.png": "85f35710a78a154fea3b4ee38bbd479d",
+"assets/assets/img/icons/interests/In2eSafety%2520Commissioner%25201-3%2520wifi.png": "132acb2c97e03402fd4e737707b1bd7b",
 "assets/assets/img/icons/interests/In2eSafety.png": "74e66d8b0e9680ae08970a54ba74aa54",
 "assets/assets/img/icons/interests/In2Games.png": "361005b7f2add77903cecdd1a0fae3d6",
 "assets/assets/img/icons/interests/In2Gardening.png": "17f13457e77409cda3ead34885edf79b",
@@ -248,10 +259,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "b1dcbaf14672e65dc66b08b7b85224e7",
-"/": "b1dcbaf14672e65dc66b08b7b85224e7",
+"index.html": "7848ba4c56813b6f437bdf080a037642",
+"/": "7848ba4c56813b6f437bdf080a037642",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "82f65a3efa4dcfe3675de76f2ca6aaba",
+"main.dart.js": "c32dda0205b1606a3b52ce7bb8431a77",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
