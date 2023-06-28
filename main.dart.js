@@ -40395,7 +40395,7 @@ A.Z()
 s=A.ny(A.a([new A.oa(1.8*$.bV).q5(b8)],r),!0,b4.CW,!0,s)
 if(b4.db)q=b6
 else{q=b4.cy
-q="MONDAY  "+A.nR("d").fC(0,A.kk(q,3))+A.Ta(A.ao(A.kk(q,3)))}p=b4.p1
+q="MONDAY  "+A.nR("d").fC(0,A.kk(q,1))+A.Ta(A.ao(A.kk(q,1)))}p=b4.p1
 o=b4.c
 o.toString
 q=p.pA(o,q,7)
@@ -40407,7 +40407,7 @@ l=b4.ns()[4]
 k=b4.ns()[5]
 if(b4.dx)j=b6
 else{j=b4.cy
-j="TUESDAY  "+A.nR("d").fC(0,A.kk(j,3))+A.Ta(A.ao(A.kk(j,3)))}i=b4.p1
+j="TUESDAY  "+A.nR("d").fC(0,A.kk(j,2))+A.Ta(A.ao(A.kk(j,2)))}i=b4.p1
 h=b4.c
 h.toString
 j=i.pA(h,j,7)
@@ -40431,7 +40431,7 @@ a2=b4.nM()[4]
 a3=b4.nM()[5]
 if(b4.fr)a4=b6
 else{a4=b4.cy
-a4="THURSDAY  "+A.nR("d").fC(0,A.kk(a4,3))+A.Ta(A.ao(A.kk(a4,3)))}a5=b4.p1
+a4="THURSDAY  "+A.nR("d").fC(0,A.kk(a4,4))+A.Ta(A.ao(A.kk(a4,4)))}a5=b4.p1
 a6=b4.c
 a6.toString
 a4=a5.pA(a6,a4,7)
@@ -40443,7 +40443,7 @@ a9=b4.nF()[4]
 b0=b4.nF()[5]
 if(b4.fx)b1=b6
 else{b1=b4.cy
-b1="FRIDAY  "+A.nR("d").fC(0,A.kk(b1,3))+A.Ta(A.ao(A.kk(b1,3)))}b2=b4.p1
+b1="FRIDAY  "+A.nR("d").fC(0,A.kk(b1,5))+A.Ta(A.ao(A.kk(b1,5)))}b2=b4.p1
 b3=b4.c
 b3.toString
 r=A.anm(A.a([q,o,p,n,m,l,k,j,h,i,g,f,e,d,c,a,b,a0,a1,a2,a3,a4,a6,a5,a7,a8,a9,b0,b2.pA(b3,b1,7),b4.ng()[0],b4.ng()[1],b4.ng()[2],b4.ng()[3],b4.ng()[4],b4.ng()[5]],r),!0,!0,!0)
@@ -81193,7 +81193,7 @@ a7=A.a3()
 a6=A.a3()
 a5=A.a3()
 $.bH().toString
-a5=A.bk(A.ah(a7),A.aj(a6),A.ao(a5),16,0,0,0)
+a5=A.bk(A.ah(a7),A.aj(a6),A.ao(a5),16,30,0,0)
 a6=A.a3()
 a7=A.a3()
 a8=A.a3()
