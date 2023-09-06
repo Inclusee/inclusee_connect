@@ -39621,7 +39621,7 @@ q=A.a_("INCLUSEE INFO",f,f,f,f,f,f)
 A.a1()
 A.nF()
 p=t.t
-q=A.c1(A.a([r,new A.bm(new A.ah(0,0,40,0),f,f),q,new A.bm(new A.ah(0,0,40,0),f,f),A.a_("Inclusee 2.0.18b",f,f,f,f,f,f),A.c5(f,f,100)],p),B.l,f,B.n,B.m)
+q=A.c1(A.a([r,new A.bm(new A.ah(0,0,40,0),f,f),q,new A.bm(new A.ah(0,0,40,0),f,f),A.a_("Inclusee 2.0.18c",f,f,f,f,f,f),A.c5(f,f,100)],p),B.l,f,B.n,B.m)
 A.a1()
 q=A.nD(A.a([new A.oh(1.8*$.bV).q4(a)],p),!0,g.d,!0,q)
 r=g.c.H(s).f
@@ -40977,10 +40977,10 @@ s.aF()},
 a7T(){var s,r,q,p,o,n,m,l,k=this,j=null,i="One on One Chat",h="Connect2One",g=k.w
 if(g){s=$.bO
 A.a1()
-s*=15}else s=150
+s*=15}else s=200
 if(g){r=$.bO
 A.a1()
-r*=15}else r=150
+r*=15}else r=200
 A.a1()
 if(g){q=$.bO
 A.a1()
@@ -41046,42 +41046,42 @@ A.a1()
 n=n*1.8*1.7}else n=20
 l=t.t
 return A.ay(j,A.bG(A.a([q,A.ay(j,A.em(A.ew(B.aw,A.a([m,A.a_(g,j,j,j,A.aB(j,j,B.f,j,j,j,j,j,j,j,j,n,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j)],l),B.ai,j),j,j,j),j,j,j,p,j,j,o)],l),B.l,B.n,B.m),j,j,j,r,j,j,s)},
-abi(){var s,r,q,p,o,n,m,l,k=this,j=null,i="Online Clubs",h=k.w
-if(h){s=$.bO
+abi(){var s,r,q,p,o,n,m,l,k=this,j=null,i="Online Clubs",h="Activities Timetable \n (Interests2Enjoy)",g=k.w
+if(g){s=$.bO
 A.a1()
-s*=15}else s=150
-if(h){r=$.bO
+s*=15}else s=200
+if(g){r=$.bO
 A.a1()
-r*=15}else r=150
+r*=15}else r=200
 A.a1()
-if(h){q=$.bO
+if(g){q=$.bO
 A.a1()
 q*=10}else q=150
-if(h){p=$.bO
+if(g){p=$.bO
 A.a1()
 p*=10}else p=150
 q=A.dI(j,A.fE(B.J,!0,j,A.e7("assets/img/icons/rd/rdinterests2enjoy.png",j,p,q),B.aS,B.O,0,j,j,j,j,j,B.aY),B.I,!1,j,j,j,j,j,j,j,j,j,j,j,new A.aeJ(k),j,j,j,j,j,j)
-if(h){p=$.bV
+if(g){p=$.bV
 A.a1()
-p=p*1.8*1.7}else p=20
-if(h){o=$.bO
+p=p*1.8*4}else p=20
+if(g){o=$.bO
 A.a1()
 o*=15}else o=150
-n=k.y?i:"Interests2Enjoy"
-if(h){h=$.bV
+n=k.y?i:h
+if(g){g=$.bV
 A.a1()
-h=h*1.8*1.7}else h=20
+g=g*1.8*1.5}else g=20
 m=$.aP()?A.bg():new A.b5(new A.b9())
 m.sc_(0,B.P)
 m.sdw(3)
 m.sab(0,$.fb())
-m=A.a_(n,j,j,j,A.aB(j,j,j,j,j,j,j,j,j,j,j,h,j,j,j,m,j,!0,j,j,j,j,j,j,j,j),j,j)
-h=k.y?i:"Activities Timetable"
+m=A.a_(n,j,j,j,A.aB(j,j,j,j,j,j,j,j,j,j,j,g,j,j,j,m,j,!0,j,j,j,j,j,j,j,j),j,j)
+g=k.y?i:h
 if(k.w){n=$.bV
 A.a1()
-n=n*1.8*1.7}else n=20
+n=n*1.8*1.5}else n=20
 l=t.t
-return A.ay(j,A.bG(A.a([q,A.ay(j,A.em(A.ew(B.aw,A.a([m,A.a_(h,j,j,j,A.aB(j,j,B.f,j,j,j,j,j,j,j,j,n,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j)],l),B.ai,j),j,j,j),j,j,j,p,j,j,o)],l),B.l,B.n,B.m),j,j,j,r,j,j,s)},
+return A.ay(j,A.bG(A.a([q,A.ay(j,A.em(A.ew(B.aw,A.a([m,A.a_(g,j,j,j,A.aB(j,j,B.f,j,j,j,j,j,j,j,j,n,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j)],l),B.ai,j),j,j,j),j,j,j,p,j,j,o)],l),B.l,B.n,B.m),j,j,j,r,j,j,s)},
 abb(){var s,r,q,p,o,n,m,l,k=this,j=null,i="Digital Mentoring",h="Learn2Tech",g=k.w
 if(g){s=$.bO
 A.a1()
