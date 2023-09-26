@@ -256,10 +256,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "b4f2a669588d53898013480e79ab56ec",
-"/": "b4f2a669588d53898013480e79ab56ec",
+"index.html": "0d6e6e69ab3c8c75b2cb9b847622204b",
+"/": "0d6e6e69ab3c8c75b2cb9b847622204b",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "caccbc3cddbc6190af346cb4db052e19",
+"main.dart.js": "932ca9edcf9ed76199d420ae4cca15fa",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
