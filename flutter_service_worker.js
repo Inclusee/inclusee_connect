@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b224f080e8a3e7d23bd6f03db190d7ae",
+  "assets/AssetManifest.json": "d14015507245f635fd85b3beb237d284",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -109,6 +109,7 @@ const RESOURCES = {
 "assets/assets/img/icons/event/Learn2QRCode.png": "a0fb5120fde0f6fbe0d2dde36d822b2a",
 "assets/assets/img/icons/event/Live%2520Up.png": "23bdf4b23ac9785a487e8ea3ba7d2fa8",
 "assets/assets/img/icons/event/Lunch%2520Club%2520(Laughter%2520Yoga).png": "11c5d2b80ca09d1a3f4005941b2591bb",
+"assets/assets/img/icons/event/Lunch%2520Club%2520Laughter%2520Yoga.png": "294cb3dac9b9a56eb1d87b24699dfcde",
 "assets/assets/img/icons/event/NBN%2520DIGITAL%2520Legacy.png": "bf3fa01f54b6da72841f6fa6af1f6029",
 "assets/assets/img/icons/event/NBN%2520Special%2520In2eSaftety.png": "c1cc22b0109400681ab65735656218a6",
 "assets/assets/img/icons/event/nurso.png": "a66272e62db1e14febce8e05c9e6e381",
@@ -138,6 +139,7 @@ const RESOURCES = {
 "assets/assets/img/icons/interests/nursotxt.png": "e7fb722b276cf085c1d184eafa70d6c2",
 "assets/assets/img/icons/interests/thirds/Connect2You.png": "75385a03a2e20404f2bdc40cb686fd2c",
 "assets/assets/img/icons/interests/thirds/ddi3rd.png": "c32f5070e06029a5bc4d5f03655acf81",
+"assets/assets/img/icons/interests/thirds/gowfiller.png": "e11a3b7b6d95fa44d24ddba5607d8215",
 "assets/assets/img/icons/interests/thirds/in2biblestudies.png": "01aee27b54b5f328ca9a72cf7d546874",
 "assets/assets/img/icons/interests/thirds/In2Craft.png": "5ce82e315fb9522a284ee243c692d9fd",
 "assets/assets/img/icons/interests/thirds/In2Pets.png": "02a8a19aaf0fa95cf6a9c18db2f74c93",
@@ -257,10 +259,10 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "1c0bb3e1dbf71c597f00dca91b7b2dfe",
-"/": "1c0bb3e1dbf71c597f00dca91b7b2dfe",
+"index.html": "91ee640dcb4b5ad85aa5d0ec344e5b82",
+"/": "91ee640dcb4b5ad85aa5d0ec344e5b82",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "6fbaaf759d2de0b81c7840607dc19f9d",
+"main.dart.js": "5a24ed95fb2965055e8499785afd7671",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"
 };
