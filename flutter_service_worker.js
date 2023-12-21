@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "84abaddab1dbc544c3719b209ccc9b8b",
-"assets/AssetManifest.bin.json": "1f6171cdfd8b9cc9526126eafe787525",
-"assets/AssetManifest.json": "9efbda9cfac0247a6bce866e77958d75",
+const RESOURCES = {"assets/AssetManifest.bin": "bdaec4dcaec71aa876c9f6a8e6330773",
+"assets/AssetManifest.bin.json": "79bcc05dfed4e4448765d3f6567ae5b9",
+"assets/AssetManifest.json": "5b28c5e28cd345d71bf6f2e3ffdc42c9",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -93,6 +93,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "84abaddab1dbc544c3719b209ccc9b8b
 "assets/assets/img/icons/event/Bribie%2520Butterfly%2520House.png": "525d442e51134544c681b980e1992281",
 "assets/assets/img/icons/event/Cosy%2520Crime%2520Workshop%2520(CT%2520Mitchell).png": "b9e213c52ab879edcab63bcab78bf4bc",
 "assets/assets/img/icons/event/Dementia%2520Webinar.png": "2ef4aa4cbca29bd629553729ce7d3d1c",
+"assets/assets/img/icons/event/Eco%2520Therapy%2520Workshop%2520-%2520Tina%2520Bramley.png": "55112f1fa59d02a28a0c073af57ff45d",
 "assets/assets/img/icons/event/Eddie%2520Spaghetti%2520VCC.png": "6002b7152f5e9f5b2d088f70516715aa",
 "assets/assets/img/icons/event/GOW%2520Morning%2520Tea.png": "eeba54baef9ad095a032e5b404e5dbf8",
 "assets/assets/img/icons/event/Happy%2520Hour_%2520Trivia.png": "665e072f3f266ee4262efb280b98074a",
@@ -101,6 +102,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "84abaddab1dbc544c3719b209ccc9b8b
 "assets/assets/img/icons/event/In2Craft_%2520Embroidery.png": "68a820c9b1fcd94ca5e3388cf657d966",
 "assets/assets/img/icons/event/In2eSafety%2520-%2520eSafety%2520Commissioner.png": "5e46078a96fd88617710052d4f84734c",
 "assets/assets/img/icons/event/In2Gardening%2520(Nurso).png": "e9d263746675ee75563937e5af381c97",
+"assets/assets/img/icons/event/In2Movies%2520(Christmess).png": "953b874c4718fa547eab3910cc43e2f9",
 "assets/assets/img/icons/event/In2Paintby%2523.png": "478f664b1254c90e53bf72c67f70f659",
 "assets/assets/img/icons/event/In2Pets%2520(RSPCA).png": "859025db19f71aea2ef01349ee9e974b",
 "assets/assets/img/icons/event/in2petsrspca.png": "a53d6a024f40e15a9e7c3893491f9152",
@@ -149,7 +151,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "84abaddab1dbc544c3719b209ccc9b8b
 "assets/assets/img/icons/interests/thirds/In2Singing%2520V2.png": "a772a31f8fc760361ee27c230d4dd96f",
 "assets/assets/img/icons/interests/thirds/In2Travel.png": "8da4e765d3bb5a2d5e485cb6937b15e1",
 "assets/assets/img/icons/interests/thirds/Lunch%2520Club.png": "443127b1ccd78163f5157bb7ce71be0a",
-"assets/assets/img/icons/interests/txtimg/adatile.png": "828f065fe1c200bb7e9b37c17ebc7b32",
 "assets/assets/img/icons/interests/txtimg/bibletxt.png": "af90f8622cefdd2c152f7dcba970599b",
 "assets/assets/img/icons/interests/txtimg/bookstxt.png": "9eece3a074165f0f57b26a8750db0269",
 "assets/assets/img/icons/interests/txtimg/c2ytxt.png": "0052e03e96f92692724c23f845bf0bd2",
@@ -265,10 +266,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "84abaddab1dbc544c3719b209ccc9b8b
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "b95c51f9914932be69b9c909bb1786f5",
-"/": "b95c51f9914932be69b9c909bb1786f5",
+"index.html": "f1d17337d8a3e4e0b2f2738786679c0c",
+"/": "f1d17337d8a3e4e0b2f2738786679c0c",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "1bf4c2d5b8ad70bd6fafcf42a6465772",
+"main.dart.js": "7f88cc9e35303627590e2868f86a8885",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
