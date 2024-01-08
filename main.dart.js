@@ -46735,7 +46735,7 @@ s=A.aD(r,q,s).w
 return A.bt(q,A.h6(q,A.bt(q,A.h9("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiP(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adF(){var s=null,r=this.c
 r.toString
-return A.h6(s,A.a7("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Clubs is finished for the year, join us again 9th Jan, if you are still looking for connection please join us on Zoom via Join in Now \n Closures: January 26th, March 12th and 29th",s,s,s,A.b8(s,s,B.i,s,s,s,s,s,s,s,s,A.aD(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiO(this),s,s,s)},
+return A.h6(s,A.a7("ALL TIMES ARE IN QLD TIME AEST ADD 1 hour if you are in an area that observes daylight savings time \n Inclusee App Tutorials have been cancelled, Closures: January 26th, March 12th and 29th",s,s,s,A.b8(s,s,B.i,s,s,s,s,s,s,s,s,A.aD(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiO(this),s,s,s)},
 vh(){var s=0,r=A.H(t.z),q
 var $async$vh=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:A.bs("prefs loading")
