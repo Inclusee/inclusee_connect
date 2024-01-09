@@ -40,7 +40,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "162e384c001e95106b4dd7da796777e7
 "assets/assets/img/timetable/weekly/i2gentile.png": "d4ad527c3a8916f27d6d0b598aceadee",
 "assets/assets/img/timetable/weekly/in2painttile.png": "8a42b71f79e9d681c0ba2ba3a30d6169",
 "assets/assets/img/timetable/weekly/lunchandlearntile.png": "52892395dba8b5449eadc424f6d94518",
-"assets/assets/img/timetable/weekly/receipes.png": "c21b1d1e6815d9f41e405875b7032b3e",
+"assets/assets/img/timetable/weekly/receipes.png": "83a035f11ce01220220b5d218bbe53eb",
 "assets/assets/img/timetable/weekly/shedstxt.png": "17b53e086963751e80d9b23a6ddc06f8",
 "assets/assets/img/timetable/weekly/singingtxt.png": "563f422449ffc598a5b11c1f6d75078a",
 "assets/assets/img/timetable/weekly/startedtxt.png": "dd3cf704bf1dffba3ac675788ecb0c30",
@@ -91,10 +91,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "162e384c001e95106b4dd7da796777e7
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "a1e283df7776812cd72431d4c2af5ccb",
-"/": "a1e283df7776812cd72431d4c2af5ccb",
+"index.html": "279bf8e5eca0405aefa219a1b650b205",
+"/": "279bf8e5eca0405aefa219a1b650b205",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "1e6af8396f953cec99f1885999ff0c44",
+"main.dart.js": "a4358be8b4ede252a0506931aaed8218",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
