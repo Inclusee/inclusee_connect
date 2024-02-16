@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "95639402327949b2ee14c8b3173caf63",
-"assets/AssetManifest.bin.json": "baa8aeee52b3974b20b34f7355b2f3bc",
-"assets/AssetManifest.json": "990d00a0846c6e6cf597af07c471f842",
+const RESOURCES = {"assets/AssetManifest.bin": "059ca3325362ca211e428f4df4666719",
+"assets/AssetManifest.bin.json": "e5a0871b66294ccb24e606a010e4e80e",
+"assets/AssetManifest.json": "a916c45a68cdc95e08c8b38501c4e030",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/img/avatars/CSO/andrea.jpg": "4ff9f6f8d40ab794ebad03de00d8cbff",
 "assets/assets/img/avatars/CSO/jacinta.jpg": "545f79449473b53066a2b5afe6643e41",
@@ -380,9 +380,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "95639402327949b2ee14c8b3173caf63
 "assets/assets/img/timetable/inclusee_tile.png": "a058fd363ec12814e2269442a4f2f5e8",
 "assets/assets/img/timetable/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
 "assets/assets/img/timetable/specialevents/In2Books%2520(T.M%2520Clark).png": "23e67ab2f915aa95da68013ac8697136",
+"assets/assets/img/timetable/specialevents/In2eSafety%2520-%2520eSafety%2520Commissioner%25201-3%2520Websites.jpg": "eb996f7a3990deae417d5f94cd1e9bb2",
+"assets/assets/img/timetable/specialevents/Nights%2520in%2520Rodanthe%2520Event.jpg": "5024eb794b1504a4e426794d0fa6ca0d",
 "assets/assets/img/timetable/specialevents/Nights%2520in%2520Rodanthe%2520Event.png": "68b3f073d48e727ccdbedb0ee4d6649b",
 "assets/assets/img/timetable/specialevents/Virtual%2520Fieldtrip%2520-%2520RSPCA%2520Wacol.png": "53f3e1fccd78c361663466bccaedb02a",
 "assets/assets/img/timetable/weekly/arttherapytile.png": "d2fee86b373a8071568b8866ae657f2e",
+"assets/assets/img/timetable/weekly/b2/In2Theatre.png": "ff34080bff0287904388c07d41cb8cca",
 "assets/assets/img/timetable/weekly/b2/Learn2Minecraft.png": "aca8e903e27402de11511c57243d055a",
 "assets/assets/img/timetable/weekly/bibletxt.png": "af90f8622cefdd2c152f7dcba970599b",
 "assets/assets/img/timetable/weekly/bookstxt.png": "9eece3a074165f0f57b26a8750db0269",
@@ -450,10 +453,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "95639402327949b2ee14c8b3173caf63
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "c21a607590552a05b76b4d62ac41bc04",
-"/": "c21a607590552a05b76b4d62ac41bc04",
+"index.html": "670f1a27f5a9b704b1de4a2cf5ffc019",
+"/": "670f1a27f5a9b704b1de4a2cf5ffc019",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "0119c6ed8f51d07c4366ff7a039facb8",
+"main.dart.js": "b32fb4953d918537222e37f10fb8be88",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
