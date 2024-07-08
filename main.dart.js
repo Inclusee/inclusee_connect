@@ -8966,7 +8966,7 @@ _.CW=j
 _.cx=k
 _.db=l
 _.dx=m},
-r4(){return new A.YF("Inclusee 2.1 INCLUSEEAPP STATUS UPDATE: ",new A.rb("Connect","2","One"),new A.rb("Connect","2","You"),new A.rb("Interests","2","Enjoy"),new A.rb("Learn","2","Tech"))},
+r4(){return new A.YF("Inclusee 2.5 INCLUSEEAPP STATUS UPDATE: ",new A.rb("Connect","2","One"),new A.rb("Connect","2","You"),new A.rb("Interests","2","Enjoy"),new A.rb("Learn","2","Tech"))},
 rb:function rb(a,b,c){this.b=a
 this.c=b
 this.d=c},
@@ -45494,7 +45494,7 @@ A.c3()
 s=A.aa("INCLUSEE INFO",f,f,f,f,f,f)
 A.c3()
 q=t.p
-s=A.dr(A.a([r,new A.bF(new A.as(0,0,40,0),f,f),s,new A.bF(new A.as(0,0,40,0),f,f),A.aa("Inclusee 2.1",f,f,f,f,f,f),A.cf(f,f,100)],q),B.r,B.C,B.w)
+s=A.dr(A.a([r,new A.bF(new A.as(0,0,40,0),f,f),s,new A.bF(new A.as(0,0,40,0),f,f),A.aa("Inclusee 2.5",f,f,f,f,f,f),A.cf(f,f,100)],q),B.r,B.C,B.w)
 A.c3()
 s=A.Yz(A.a([new A.y4(1.8*$.np).GE(a)],q),!0,g.d,!0,s)
 r=g.kB("Participant \n Advocacy Group",g.gakx(),"assets/img/tiles/pag_tile.png")
