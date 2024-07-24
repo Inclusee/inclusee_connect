@@ -45990,17 +45990,16 @@ g=A.a([g.fr,g.fx],p)
 f=$.Y2()
 f=A.a([f.go,f.id],p)
 e=$.mh()
-d=$.qS()
-d=A.a([e.a,e.d,e.x,d.w,e.e,e.w,d.r],p)
-e=$.mh()
-e=A.a([e.y,e.z,e.Q,e.fy,e.p1,e.at,$.qS().a],p)
+e=A.a([e.a,e.d,e.x,e.e,e.w,$.qS().r],p)
+d=$.mh()
+d=A.a([d.y,$.qS().cy,d.z,d.Q,d.fy,d.p1,d.at],p)
 c=$.mh()
-c=A.a([c.b,c.ax,c.ay,c.CW,c.f,c.cy,c.db,c.dy],p)
+c=A.a([c.b,c.ax,c.ay,c.CW,c.f,c.cy,c.dy],p)
 b=$.mh()
 a=$.qS()
 b=A.a([b.k1,b.fr,a.e,a.cx,b.fx,b.cx,b.k2,b.ch],p)
 a=$.mh()
-a=A.a([a.c,a.k3,a.go,a.r,a.k4,a.id,a.ok],p)
+a=A.a([a.c,a.k3,a.go,a.r,a.k4,a.id],p)
 a0=$.mh()
 a1=$.qS()
 a1=A.a([a0.a,a0.d,a1.Q,a0.e,a0.w,a1.as,a0.x,a1.r],p)
@@ -46014,7 +46013,7 @@ a3=$.mh()
 a4=$.qS()
 p=A.a([a3.k1,a3.fr,a4.CW,a4.cy,a4.db,a3.k2,a3.ch],p)
 a3=$.aDv()
-a3=new A.a4x(new A.Z8(q,o,n,m,l,k),new A.a8W(j,i,h,g,f),new A.Z7(d,e,c,b,a,a1,a2,a0,p),a3.a,0,a3.b,0,a3.c,0,a3.d,0,a3.e,0)
+a3=new A.a4x(new A.Z8(q,o,n,m,l,k),new A.a8W(j,i,h,g,f),new A.Z7(e,d,c,b,a,a1,a2,a0,p),a3.a,0,a3.b,0,a3.c,0,a3.d,0,a3.e,0)
 a3.a=0
 a3.c=r
 a3.b=8
@@ -46300,7 +46299,7 @@ s=A.aE(r,q,s).w
 return A.br(q,A.h9(q,A.br(q,A.hE("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiO(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adE(){var s=null,r=this.c
 r.toString
-return A.h9(s,A.aa(" ",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
+return A.h9(s,A.aa("In2Bible cancelled for this Friday",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
 v5(){var s=0,r=A.H(t.z),q
 var $async$v5=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:A.bM("prefs loading")
@@ -91988,8 +91987,8 @@ a=A.Y($.bJ(),$.bI(),$.fX(),13,0,0,0)
 a=A.bn(A.Y($.bJ(),$.bI(),$.fX(),14,0,0,0),"assets/img/timetable/specialevents/In2Trivia - Drag Trivia.png",!1,!1,"In2Trivia - Drag Trivia",a9,a,!1,a4,a4)
 a0=A.Y($.bJ(),$.bI(),$.fX(),12,30,0,0)
 a0=A.bn(A.Y($.bJ(),$.bI(),$.fX(),13,30,0,0),"assets/img/timetable/weekly/Learn2Kahoot.png",!1,!1,"In2Kahoot",a9,a0,!1,a4,a4)
-a1=A.Y($.bJ(),$.bI(),$.fX(),14,0,0,0)
-a1=A.bn(A.Y($.bJ(),$.bI(),$.fX(),15,0,0,0),"assets/img/timetable/specialevents/Guest Speaker - Tenants QLD.png",!1,!1,"Tennant QLD",a9,a1,!1,a4,a4)
+a1=A.Y($.bJ(),$.bI(),$.fX(),10,0,0,0)
+a1=A.bn(A.Y($.bJ(),$.bI(),$.fX(),11,0,0,0),"assets/img/timetable/specialevents/Guest Speaker - Tenants QLD.png",!1,!1,"Tennant QLD",a9,a1,!1,a4,a4)
 a2=A.Y($.bJ(),$.bI(),$.fX(),15,0,0,0)
 a2=A.bn(A.Y($.bJ(),$.bI(),$.fX(),16,0,0,0),"assets/img/timetable/specialevents/NBN In2eSafety.png",!1,!1,"NBN Scams",a9,a2,!1,a4,a4)
 a3=A.Y($.bJ(),$.bI(),$.w5(),14,0,0,0)
