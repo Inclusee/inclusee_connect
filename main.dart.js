@@ -45996,7 +45996,7 @@ d=A.a([e.a,e.d,e.x,d.w,e.e,e.w,d.r],p)
 e=$.mh()
 e=A.a([e.y,$.o5().a,e.z,e.Q,e.fy,e.p1,e.at],p)
 c=$.mh()
-c=A.a([c.b,c.ax,$.o5().ax,c.CW,c.f,c.cy,c.dy],p)
+c=A.a([c.b,$.o5().ax,c.CW,c.f,c.cy,c.dy],p)
 b=$.mh()
 a=$.o5()
 a=A.a([b.k1,b.fr,a.e,a.cy,b.fx,b.cx,b.k2,a.ay],p)
@@ -46301,7 +46301,7 @@ s=A.aE(r,q,s).w
 return A.br(q,A.h9(q,A.br(q,A.hE("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.a6,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.aiO(this),q,q,q),B.j,q,q,q,q,q,q,q)},
 adE(){var s=null,r=this.c
 r.toString
-return A.h9(s,A.aa(" ",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
+return A.h9(s,A.aa("Art Therapy has been cancelled",s,s,s,A.b5(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.a6,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aiN(this),s,s,s)},
 v5(){var s=0,r=A.H(t.z),q
 var $async$v5=A.I(function(a,b){if(a===1)return A.E(b,r)
 while(true)switch(s){case 0:A.bM("prefs loading")
