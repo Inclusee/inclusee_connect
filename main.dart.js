@@ -48036,18 +48036,19 @@ n=A.l2(new A.e(Date.now(),!1),"TUESDAY",A.a([k],p))
 m=j?n:o
 if(!b){B.b.hx(r,0,m)
 B.b.M(r,l.tS(a-s-1))}return r},
-Xe(a,b){var s,r,q,p,o,n,m=this,l="In2Wellness, In2Music",k="WEDNESDAY",j=m.to
-j===$&&A.b()
-s=j.x
-r=j.tJ(b,m.gqQ(),s.e,s.f)
+Xe(a,b){var s,r,q,p,o,n,m,l=this,k="In2Wellness, In2Music",j="WEDNESDAY",i=l.to
+i===$&&A.b()
+s=i.x
+r=i.tJ(b,l.gqQ(),s.e,s.f)
 s=r.length
-j=m.cy?new A.e(Date.now(),!1):A.rY($.ol(),3)
-q=t.s
-p=A.l2(j,k,A.a([l],q))
-o=A.l2(new A.e(Date.now(),!1),k,A.a([l],q))
-n=m.cx?o:p
-if(!b){B.b.hx(r,0,n)
-B.b.M(r,m.tS(a-s-1))}return r},
+i=l.cx
+q=i?new A.e(Date.now(),!1):A.rY($.ol(),3)
+p=t.s
+o=A.l2(q,j,A.a([k],p))
+n=A.l2(new A.e(Date.now(),!1),j,A.a([k],p))
+m=i?n:o
+if(!b){B.b.hx(r,0,m)
+B.b.M(r,l.tS(a-s-1))}return r},
 WF(a,b){var s,r,q,p,o,n,m,l=this,k="In2Wellness, In2Music",j="THURSDAY",i=l.to
 i===$&&A.b()
 s=l.rx
