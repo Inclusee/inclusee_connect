@@ -48541,9 +48541,9 @@ r=this.c
 r.toString
 s=A.aF(r,q,s).w
 return A.bn(q,A.eX(q,A.bn(q,A.h1("assets/img/logos/logo_sml.png",q,q,q),B.e,q,q,q,s.a.b/7,q,q,p.a.b/7),B.W,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akz(this),q,q,q,q,q,q),B.e,q,q,q,q,q,q,q)},
-ag8(){var s=null,r="VCC Closed Thursday 20th from 9am - 12pm for staff training",q=this.c
-q.toString
-return A.eX(s,A.bY(s,s,A.a_(r,s,s,s,A.aE(s,s,B.h,s,s,s,s,s,s,s,s,A.aF(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aky(this),s,s,s,s,s,s)},
+ag8(){var s=null,r=this.c
+r.toString
+return A.eX(s,A.bY(s,s,A.a_(" ",s,s,s,A.aE(s,s,B.h,s,s,s,s,s,s,s,s,A.aF(r,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s," ",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aky(this),s,s,s,s,s,s)},
 vP(){var s=0,r=A.L(t.z),q
 var $async$vP=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:A.bQ("prefs loading")
