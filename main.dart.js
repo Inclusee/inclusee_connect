@@ -48274,7 +48274,7 @@ o=p.e
 o===$&&A.b()
 n=p.d
 n===$&&A.b()
-m=A.a([o.Te(n,"VCC CLOSED \n Tuesday 10th \n VCC Closed Staff Training",p.gYe())],r)
+m=A.a([o.Te(n,"VCC CLOSED \n Tuesday 18th \n VCC Closed Staff Training",p.gYe())],r)
 B.b.M(m,l.u2(12-m.length))
 B.b.M(q,m)
 B.b.M(q,l.Xu(12,!1))
