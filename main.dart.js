@@ -48557,7 +48557,7 @@ r=this.c
 r.toString
 s=A.aF(r,q,s).w
 return A.bo(q,A.eX(q,A.bo(q,A.h1("assets/img/logos/logo_sml.png",q,q,q),B.e,q,q,q,s.a.b/7,q,q,p.a.b/7),B.W,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akz(this),q,q,q,q,q,q),B.e,q,q,q,q,q,q,q)},
-agg(){var s=null,r="INCLUSEE Open and Business as usual, check timetable for clubs and VCC",q=this.c
+agg(){var s=null,r="VCC Closed Tuesday 18/03 for Staff Training",q=this.c
 q.toString
 return A.eX(s,A.bY(s,s,A.a0(r,s,s,s,A.aE(s,s,B.h,s,s,s,s,s,s,s,s,A.aF(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.W,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aky(this),s,s,s,s,s,s)},
 vR(){var s=0,r=A.L(t.z),q
