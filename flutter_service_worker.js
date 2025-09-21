@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f93b1da68a6b594a5a60b3daa9ded9c2",
-"assets/AssetManifest.bin.json": "77fdca16d3ff4a638e071b5f1e26a0fb",
-"assets/AssetManifest.json": "be9b2e5fdf5aa97bf8e8896f6bffc7c4",
+const RESOURCES = {"assets/AssetManifest.bin": "d1cb8de9fcb251e5e5c62b0fad989b0b",
+"assets/AssetManifest.bin.json": "4ea9bc6c06d14a22b6030e1b63b339ea",
+"assets/AssetManifest.json": "a116c53ba5c5e75c9334b36188f3027f",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/config/vcc_program_table.json": "d6a327651e5160085cb1060e6ec3c950",
 "assets/assets/img/bg/light_bg.png": "90580d14eb9beb97550b34d44cd40bab",
@@ -136,8 +136,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "f93b1da68a6b594a5a60b3daa9ded9c2
 "assets/assets/img/timetable/esafety/protectpersonal.png": "6269083604b68c53cd1dc64e22c329ff",
 "assets/assets/img/timetable/guests/American%2520Politics%2520with%2520James%2520Cahill.png": "188ebca84bf466a9ab4b9830881b6272",
 "assets/assets/img/timetable/guests/Carers%2520QLD.png": "a63d63036a5e0f71dbe20937015ef1fc",
+"assets/assets/img/timetable/guests/Cooking%2520with%2520Kat%2520&%2520Shirley.png": "36c2e4a6330f57b87b62780f603291be",
 "assets/assets/img/timetable/guests/Earth%2520Hour.png": "be1a049cc6f6c2417392f2a1a10dc6e0",
 "assets/assets/img/timetable/guests/Guest%2520Speaker%2520-%2520ADA%2520Australia%2520-%2520Your%2520Right%2520to%2520Aged%2520Care%2520Advocacy.png": "ae6340817f9025eeb15724ab215697c7",
+"assets/assets/img/timetable/guests/Guest%2520Speaker%2520-%2520Best%2520Life%2520Financial%2520Planning.png": "a70a2da23b3787ba6ba37bbdc230d114",
+"assets/assets/img/timetable/guests/Guest%2520Speaker%2520-%2520Sage%2520Care%2520Advice.png": "d6e4e9826112507809ea609e3e055ca4",
 "assets/assets/img/timetable/guests/Guest%2520Speaker%2520-%2520Tenants%2520QLD.png": "77d90b6aac43ac7e6a4cd87fd2a7391e",
 "assets/assets/img/timetable/guests/Guest%2520Speaker%2520-%2520The%2520Session.png": "1b1979fac78d101111d1e70ceb3e9a5f",
 "assets/assets/img/timetable/guests/Guest%2520Speaker%2520Caxton%2520Legal.png": "465209ae413498419a47e7f84f4ed804",
@@ -148,6 +151,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f93b1da68a6b594a5a60b3daa9ded9c2
 "assets/assets/img/timetable/guests/Nutrition%2520Australia.png": "3d5d9cd2b466eaa88f6a9f06311b352c",
 "assets/assets/img/timetable/guests/OSM%2520Physio%2520with%2520Emily%2520Moore.png": "6bd6654c194280feb3a8611f508cc33d",
 "assets/assets/img/timetable/guests/Poetry%2520workshop%2520with%2520Tess%2520Rowley.png": "bb2a8a7137de5ffc66cad2aab5995d78",
+"assets/assets/img/timetable/guests/Special%2520Event%2520Musical%2520Bingo.png": "118cb09317046c3608d436f975b69de7",
 "assets/assets/img/timetable/inclusee_tile.png": "a058fd363ec12814e2269442a4f2f5e8",
 "assets/assets/img/timetable/inclusee_tile_white.png": "3897ebd804b69b5a40c43c7757f70e24",
 "assets/assets/img/timetable/movies/In2Movies%2520-%25205%2520Weddings.png": "d99331cc867e2e83250793d7d548d021",
@@ -341,10 +345,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "f93b1da68a6b594a5a60b3daa9ded9c2
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "9c2f6785a17cc61b907f905e9515e964",
-"/": "9c2f6785a17cc61b907f905e9515e964",
+"index.html": "a7a425877029a3f7d8aa37e2de2a7095",
+"/": "a7a425877029a3f7d8aa37e2de2a7095",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "63055f4fddcfaecb4c4212ba26036e94",
+"main.dart.js": "cf99ca03fdf58536ebc589549d88f2be",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
