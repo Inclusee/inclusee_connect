@@ -48766,7 +48766,7 @@ r=this.c
 r.toString
 s=A.aE(r,q,s).w
 return A.bl(q,A.fc(q,A.bl(q,A.hF("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.al_(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
-ahy(){var s=null,r="Reminder: Our event times are in QLD Time, please allow for daylight savings if your are in NSW/VIC/SA/TAS/ACT, \n Join the New app info session with Rachael this morning",q=this.c
+ahy(){var s=null,r="Reminder: Our event times are in QLD Time, please allow for daylight savings if your are in NSW/VIC/SA/TAS/ACT",q=this.c
 q.toString
 return A.fc(s,A.bY(s,s,A.Y(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akZ(this),s,s,s,s,s,s)},
 wb(){var s=0,r=A.L(t.z),q
