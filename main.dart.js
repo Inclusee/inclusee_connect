@@ -48716,7 +48716,7 @@ s=A.aE(r,q,s).w
 return A.bn(q,A.fc(q,A.bn(q,A.h9("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.al_(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
 ahy(){var s=null,r="Reminder: Our event times are in QLD Time, please allow for daylight savings if your are in NSW/VIC/SA/TAS/ACT",q=this.c
 q.toString
-return A.fc(s,A.bY(s,s,A.bK(A.a([A.Y(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.h9("assets/img/appinfobanner.jpg",s,150,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akZ(this),s,s,s,s,s,s)},
+return A.fc(s,A.bY(s,s,A.bK(A.a([A.Y(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.h9("assets/img/appinfobanner.jpg",s,100,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akZ(this),s,s,s,s,s,s)},
 wa(){var s=0,r=A.L(t.z),q
 var $async$wa=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:A.c_("prefs loading")
