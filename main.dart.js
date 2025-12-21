@@ -48640,7 +48640,7 @@ r=this.c
 r.toString
 s=A.aE(r,q,s).w
 return A.bl(q,A.fc(q,A.bl(q,A.h8("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akY(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
-ahw(){var s=null,r="Reduced Timetable next week, and Inclusee will be closed Friday 25th -Thursday 26th \n Reminder: Our event times are in QLD Time, please allow for daylight savings if your are in NSW/VIC/SA/TAS/ACT",q=this.c
+ahw(){var s=null,r="Reduced Timetable this week, Join Shirley for a special event Today, Icons and Insights at 10AM \n and Inclusee will be closed Friday 25th -Thursday 26th \n Reminder: Our event times are in QLD Time, please allow for daylight savings if your are in NSW/VIC/SA/TAS/ACT",q=this.c
 q.toString
 return A.fc(s,A.bY(s,s,A.bK(A.a([A.Y(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.h8("assets/img/appinfobanner.jpg",s,100,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akX(this),s,s,s,s,s,s)},
 w9(){var s=0,r=A.L(t.z),q
