@@ -48612,7 +48612,7 @@ s=A.aE(s,k,h).w.a.b/12
 i=A.bW(k,k,k,!1,k,k,!1,k,k,k,k,"This Row Contains Newsletter, Information",k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)
 p=l.c
 p.toString
-p=A.aUh(p,6,"assets/img/icons/app_icons/news_icon.png",A.dJ("https://www.canva.com/design/DAGybg5riyI/iOQYEmeJ20q7dyy-oNtGVg/view?utm_content=DAGybg5riyI&utm_campaign=designshare&utm_medium=link&utm_source=viewer",0,k),"Newsletter")
+p=A.aUh(p,6,"assets/img/icons/app_icons/news_icon.png",A.dJ("https://www.canva.com/design/DAG4n39q_1A/4cs3GsBPm6VqpwbfxaSo-g/view?utm_content=DAG4n39q_1A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2d194f0e74",0,k),"Newsletter")
 o=l.c
 o.toString
 o=A.at9(o,6,"assets/img/icons/app_icons/info_icon.png","/supportScreen","Information")
