@@ -48601,7 +48601,7 @@ r=this.c
 r.toString
 s=A.aE(r,q,s).w
 return A.bn(q,A.fa(q,A.bn(q,A.hC("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akN(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
-agP(){var s=null,r="Reminder: Our event times are in QLD Time, please allow for daylight savings if your are in NSW/VIC/SA/TAS/ACT",q=this.c
+agP(){var s=null,r="Celebrate Mother Language day in Drop-In-Chat from 16 - 20 Feb, 9am - 5pm, \n Connect with us to listen, learn, share and remember together",q=this.c
 q.toString
 return A.fa(s,A.bY(s,s,A.bL(A.a([A.a_(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akM(this),s,s,s,s,s,s)},
 w7(){var s=0,r=A.L(t.z),q
