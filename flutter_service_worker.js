@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c30db1cad2ac698e6f7ea729252a67aa",
-"assets/AssetManifest.bin.json": "09eb936842dd2711164333647e2ff01d",
-"assets/AssetManifest.json": "7638c8a4bc977f54addd7ad3995dea5e",
+const RESOURCES = {"assets/AssetManifest.bin": "b2c978de3a0c10249df3628d38ab5855",
+"assets/AssetManifest.bin.json": "b6256513ccb66e9e888fab0942b0446c",
+"assets/AssetManifest.json": "bf3a646093081b9bc4f9164eb5ca92d8",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/config/vcc_program_table.json": "d6a327651e5160085cb1060e6ec3c950",
 "assets/assets/img/appinfobanner.jpg": "4d715feebc96afe571b767b1726a3183",
@@ -53,6 +53,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "c30db1cad2ac698e6f7ea729252a67aa
 "assets/assets/img/timetable/B1_2026/events/Good%2520News%2520Club%2520(Social%2520Justice%2520Day).png": "1258af170835256ffb89510e6b26dfad",
 "assets/assets/img/timetable/B1_2026/events/Good%2520News%2520Club%2520(World%2520Radio%2520Day).png": "43ab4e4b6457a22cde0a3a74ab49fd57",
 "assets/assets/img/timetable/B1_2026/events/Guest%2520Author%2520HM%2520Hodgson.png": "1705ffc4a829c7f8bb06ae66a1eaab2f",
+"assets/assets/img/timetable/B1_2026/events/Guest%2520Speaker%2520Joanne%2520Cody%2520-%2520Using%2520Spices%2520for%2520Health%2520and%2520Wellbeing.png": "817bf84535b18e7659a56934b1f49491",
 "assets/assets/img/timetable/B1_2026/events/Health%2520Info%2520Series.png": "e7882c07ca948e11928c0b98cd8cb3a4",
 "assets/assets/img/timetable/B1_2026/events/Holocaust%2520Rememberance%2520Day.png": "75afbd509a78f43e0964277163ec8521",
 "assets/assets/img/timetable/B1_2026/events/International%2520Mother%2520Language%2520Day.png": "ce55da1a7010f55e3484331aa07eac9c",
@@ -132,10 +133,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "c30db1cad2ac698e6f7ea729252a67aa
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "d736b1d56ee9875f1ffb3dde35533418",
-"/": "d736b1d56ee9875f1ffb3dde35533418",
+"index.html": "ae956d9215991ae91a14d241760c8055",
+"/": "ae956d9215991ae91a14d241760c8055",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "e30d328251aed35e0ab45042b16bb569",
+"main.dart.js": "e1c763586cebca4a5bee2f4df77d31e2",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
