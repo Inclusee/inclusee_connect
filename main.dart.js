@@ -48177,7 +48177,7 @@ n=A.lg(new A.c(Date.now(),!1),j,A.a([k],p))
 m=r?n:o
 if(!b){B.b.iq(s,0,m)
 B.b.M(s,l.uj(a-i-1))}return s},
-Xg(a,b){var s,r,q,p,o,n,m,l=this,k="In2Wellness, In2Music",j="THURSDAY MORNING",i=l.to
+Xg(a,b){var s,r,q,p,o,n,m,l=this,k="In2Wellness, In2Music",j="THURSDAY",i=l.to
 i===$&&A.b()
 s=l.rx
 s===$&&A.b()
