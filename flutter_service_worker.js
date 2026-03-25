@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b2c978de3a0c10249df3628d38ab5855",
-"assets/AssetManifest.bin.json": "b6256513ccb66e9e888fab0942b0446c",
-"assets/AssetManifest.json": "bf3a646093081b9bc4f9164eb5ca92d8",
+const RESOURCES = {"assets/AssetManifest.bin": "3162fffcde15e1ad38e7687135c5f7ce",
+"assets/AssetManifest.bin.json": "45bc69c553b88185ad7244bf7ac525ae",
+"assets/AssetManifest.json": "03ea0608fb512acf8f42b7cd7703a650",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/config/vcc_program_table.json": "d6a327651e5160085cb1060e6ec3c950",
 "assets/assets/img/appinfobanner.jpg": "4d715feebc96afe571b767b1726a3183",
@@ -58,11 +58,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "b2c978de3a0c10249df3628d38ab5855
 "assets/assets/img/timetable/B1_2026/events/Holocaust%2520Rememberance%2520Day.png": "75afbd509a78f43e0964277163ec8521",
 "assets/assets/img/timetable/B1_2026/events/International%2520Mother%2520Language%2520Day.png": "ce55da1a7010f55e3484331aa07eac9c",
 "assets/assets/img/timetable/B1_2026/events/International%2520Womens%2520Day.png": "633e6d33755e3bab72aeff55cefd944b",
+"assets/assets/img/timetable/B1_2026/events/Laughter%2520Yoga.png": "49ad729aac966fdcc91f0c7fbd695e5c",
 "assets/assets/img/timetable/B1_2026/events/Life%2520Story%2520Series%2520With%2520Bronte%2520Price.png": "c1391ae67d335b27d7da199aa0bf7620",
 "assets/assets/img/timetable/B1_2026/events/Lunch%2520and%2520Laugh.png": "e98ec67457db99bd9678e4a70b13d0ef",
 "assets/assets/img/timetable/B1_2026/events/OPAN%2520Webinar.png": "87765c439849a5bc02f72b1eb06039fe",
 "assets/assets/img/timetable/B1_2026/events/Poetry%2520Club%2520-%2520World%2520Poetry%2520Day.png": "e447f405377c779a0f1350ee59230fbb",
 "assets/assets/img/timetable/B1_2026/events/Special%2520Event%2520guest%2520speaker.png": "caf3b9a82ecf8cd3f7fcc1034c45dde0",
+"assets/assets/img/timetable/B1_2026/events/Special%2520Event%2520i%2520and%2520i.png": "95f59d4f319d2b00c146b3ea91d20772",
 "assets/assets/img/timetable/B1_2026/events/Special%2520Event.png": "edf2a2fb25976f7fc68054217c1830fd",
 "assets/assets/img/timetable/B1_2026/events/The%2520Art%2520&%2520Evolution%2520of%2520the%2520Dinner%2520Party.png": "cddc3d5827e8c022f4a95de7aa954d9f",
 "assets/assets/img/timetable/B1_2026/events/World%2520Cancer%2520Day%2520Guest%2520Speaker.png": "8bdc1cb715599e37d8aae6525c3c5b7e",
@@ -133,10 +135,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "b2c978de3a0c10249df3628d38ab5855
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "ad7131b83a9c9290d633182b38d81efa",
-"/": "ad7131b83a9c9290d633182b38d81efa",
+"index.html": "6f74ce368701a9c4e21122d1a6b8f068",
+"/": "6f74ce368701a9c4e21122d1a6b8f068",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "44cbeffb4082952e1051febde57f296a",
+"main.dart.js": "111d71759791a72b70b53fb4ea9b3e45",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
