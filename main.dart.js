@@ -48504,7 +48504,7 @@ s=A.aE(s,k,h).w.a.b/12
 i=A.bW(k,k,k,!1,k,k,!1,k,k,k,k,"This Row Contains Newsletter, Information",k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)
 p=l.c
 p.toString
-p=A.aTV(p,6,"assets/img/icons/app_icons/news_icon.png",A.dI("https://canva.link/ju5zdptsx61nxuz",0,k),"Newsletter")
+p=A.aTV(p,6,"assets/img/icons/app_icons/new news_icon.png",A.dI("https://canva.link/ju5zdptsx61nxuz",0,k),"Newsletter")
 o=l.c
 o.toString
 o=A.asT(o,6,"assets/img/icons/app_icons/info_icon.png","/supportScreen","Information")
