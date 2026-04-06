@@ -48438,7 +48438,7 @@ r=this.c
 r.toString
 s=A.aE(r,q,s).w
 return A.bl(q,A.fa(q,A.bl(q,A.hB("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akL(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
-agO(){var s=null,r="This week is a Reduced Timetable, VCC Closed for Friday 3rd, Monday 6th \n Times are in QLD AEST, Daylight Savings ends Sunday 5th",q=this.c
+agO(){var s=null,r="This week is a Reduced Timetable, \n Times are in QLD AEST",q=this.c
 q.toString
 return A.fa(s,A.bW(s,s,A.bJ(A.a([A.a_(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akK(this),s,s,s,s,s,s)},
 w7(){var s=0,r=A.L(t.z),q
