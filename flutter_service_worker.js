@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "50d0ce5f861c4f35b31906bb59d6469d",
-"assets/AssetManifest.bin.json": "a2ffe6db46465578437f90a91a9c4e82",
-"assets/AssetManifest.json": "b6514a8f93d8d3b378e3744881a83c5b",
+const RESOURCES = {"assets/AssetManifest.bin": "c580b84fc64794e24754bfbed067d0b0",
+"assets/AssetManifest.bin.json": "5ceb8125436b51abe31e8cfe0cd8ecdb",
+"assets/AssetManifest.json": "c811df75fe555f0f000fbe85ccde1f63",
 "assets/assets/app_strings.dart": "d41d8cd98f00b204e9800998ecf8427e",
 "assets/assets/config/vcc_program_table.json": "d6a327651e5160085cb1060e6ec3c950",
 "assets/assets/img/appinfobanner.jpg": "4d715feebc96afe571b767b1726a3183",
@@ -102,6 +102,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "50d0ce5f861c4f35b31906bb59d6469d
 "assets/assets/img/timetable/B2/Drawing%2520Club.png": "53e42dbe0277354469a5f846aebb5d20",
 "assets/assets/img/timetable/B2/Drop%2520in%2520Chat.png": "b0d1e6525cfdb06338c0cbce940a24d5",
 "assets/assets/img/timetable/B2/event/Birthday%2520Celebration%2520Club%2520Tile.png": "7d2972e5c2432800166fa09054c01a9e",
+"assets/assets/img/timetable/B2/event/Block%25202%25202026%2520Mini%2520Series%2520Tiles/Aged%2520Care%2520Info%2520Series.png": "1f27bd14dc3e161381e2bb91c0cbbc1a",
+"assets/assets/img/timetable/B2/event/Block%25202%25202026%2520Mini%2520Series%2520Tiles/Art%2520History%2520Series.png": "2562d8fbfa83be9b58d7857f3b51aac2",
+"assets/assets/img/timetable/B2/event/Block%25202%25202026%2520Mini%2520Series%2520Tiles/Carer%25E2%2580%2599s%2520Haven%2520Info%2520Series.png": "40305caf285df66fc7a8013729c3f415",
+"assets/assets/img/timetable/B2/event/Block%25202%25202026%2520Mini%2520Series%2520Tiles/Healthy%2520Living%2520Series.png": "4141970b3fd624c36bbbbe3d21c57fb6",
+"assets/assets/img/timetable/B2/event/Block%25202%25202026%2520Mini%2520Series%2520Tiles/Home%2520Life%2520Hacks%2520Series.png": "2c6380095a2d5447f9ffe3254c49630a",
+"assets/assets/img/timetable/B2/event/Block%25202%25202026%2520Mini%2520Series%2520Tiles/Intimacy%2520and%2520Ageing%2520Series.png": "9330d19ec87c1ea983632b3a66383d1a",
 "assets/assets/img/timetable/B2/event/Community%2520Conversations%2520With%2520Bronte%2520Price.png": "3644e48d2dd8b74157eb0468f9e1fbb1",
 "assets/assets/img/timetable/B2/event/Community%2520Feedback%2520Group.png": "f36ba9e56d51bfbd4bd77e0d647d2115",
 "assets/assets/img/timetable/B2/event/eSafety%2520Club%2520-%2520eSafety%2520Commissioner.png": "387bb18d285bcde21f61d86a2573a3b6",
@@ -179,10 +185,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "50d0ce5f861c4f35b31906bb59d6469d
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "03ba2064f9f975ceef87cb3deff9b3b9",
-"/": "03ba2064f9f975ceef87cb3deff9b3b9",
+"index.html": "a29ac49a445914f85b23a11f8f3e40bf",
+"/": "a29ac49a445914f85b23a11f8f3e40bf",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "1cfa4147228397e4dbaaa8d5ebf991fb",
+"main.dart.js": "56f5983d5385d1b49a2759a6f0474051",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
