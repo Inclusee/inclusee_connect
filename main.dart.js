@@ -48576,7 +48576,7 @@ r=this.c
 r.toString
 s=A.aE(r,q,s).w
 return A.bn(q,A.f9(q,A.bn(q,A.hD("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akN(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
-agS(){var s=null,r="Block 2 starts Monday 13th read the lateset newslatter for more information \n Times are in QLD AEST",q=this.c
+agS(){var s=null,r="Block 2 starts Monday 13th \n Times are in QLD AEST",q=this.c
 q.toString
 return A.f9(s,A.bY(s,s,A.bL(A.a([A.a_(r,s,s,s,s,A.as(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akM(this),s,s,s,s,s,s)},
 w6(){var s=0,r=A.L(t.z),q
@@ -48617,7 +48617,7 @@ s=A.aE(s,k,h).w.a.b/12
 i=A.bY(k,k,k,!1,k,k,!1,k,k,k,k,"This Row Contains Newsletter, Information",k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)
 p=l.c
 p.toString
-p=A.aTV(p,6,"assets/img/icons/app_icons/news_icon.png",A.dI("https://canva.link/ju5zdptsx61nxuz",0,k),"Newsletter")
+p=A.aTV(p,6,"assets/img/icons/app_icons/news_icon.png",A.dI("https://inclusee.org.au/wp-content/uploads/2026/03/Inclusee-Printable-Timetable-B2-2026.pdf",0,k),"Newsletter")
 o=l.c
 o.toString
 o=A.asV(o,6,"assets/img/icons/app_icons/info_icon.png","/supportScreen","Information")
