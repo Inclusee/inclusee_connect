@@ -48579,7 +48579,7 @@ r=this.c
 r.toString
 s=A.aE(r,q,s).w
 return A.bl(q,A.fa(q,A.bl(q,A.hC("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akN(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
-agS(){var s=null,r="Join us next week starting Monday 27th for Art Appreciation Week, many fun events are planned \n Times are in QLD AEST",q=this.c
+agS(){var s=null,r="Join us this week for Art Appreciation Week, many fun events are planned \n Closed Monday 4th \n  Times are in QLD AEST",q=this.c
 q.toString
 return A.fa(s,A.bZ(s,s,A.bL(A.a([A.a_(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akM(this),s,s,s,s,s,s)},
 w7(){var s=0,r=A.L(t.z),q
