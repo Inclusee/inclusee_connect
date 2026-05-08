@@ -200,10 +200,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "78e4435e2a4db7f5f66cd97c8a92304b
 "icons/ms-icon-150x150.png": "5022c2bf22710fbb197c46a3ca08e0d1",
 "icons/ms-icon-310x310.png": "be9497c21925e4d091ad81514e188131",
 "icons/ms-icon-70x70.png": "602874a6f063b1342f7436d9cf627ba2",
-"index.html": "23d4699d6d96e4e3925eb983550a1c01",
-"/": "23d4699d6d96e4e3925eb983550a1c01",
+"index.html": "b7b70d2f1aaff44899f65e6cbee8b91c",
+"/": "b7b70d2f1aaff44899f65e6cbee8b91c",
 "jsfunctions.js": "527047b4742849d7741d0e74f3aea90e",
-"main.dart.js": "f6bb63acd4990c45ccc17c97324f4cec",
+"main.dart.js": "3e8c5442d5898bc34087de5068621948",
 "manifest.json": "b5a8a967df78e46328f4db6abd07f563",
 "version.json": "e640fb6bb2a22b070c3f374f8c8ae980"};
 // The application shell files that are downloaded before a service worker can
