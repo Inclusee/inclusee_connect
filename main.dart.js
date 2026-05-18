@@ -48589,9 +48589,9 @@ r=this.c
 r.toString
 s=A.aE(r,q,s).w
 return A.bn(q,A.fa(q,A.bn(q,A.hC("assets/img/logos/logo_sml.png",q,q,q),B.j,q,q,q,s.a.b/7,q,q,p.a.b/7),B.M,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.akN(this),q,q,q,q,q,q),B.j,q,q,q,q,q,q,q)},
-agS(){var s=null,r="Join us in thanking our Volunteers during Volunteer Week, 18th - 22nd \n Times are in QLD AEST",q=this.c
-q.toString
-return A.fa(s,A.bZ(s,s,A.bL(A.a([A.a_(r,s,s,s,s,A.at(s,s,B.i,s,s,s,s,s,s,s,s,A.aE(q,s,t.w).w.a.b/25,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akM(this),s,s,s,s,s,s)},
+agS(){var s=null,r="If you are on an Android device, please update your app to the latest version, \n If you are unsure how to do so, please contact Inclusee Tech Support \n Times are in QLD AEST",q=A.X(255,0,0,0),p=this.c
+p.toString
+return A.fa(s,A.bZ(s,s,A.bL(A.a([A.a_(r,s,s,s,s,A.at(s,s,q,s,s,s,s,s,s,s,s,A.aE(p,s,t.w).w.a.b/20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.m,B.u,B.n,B.v),!1,s,s,!1,s,s,s,s,r,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.akM(this),s,s,s,s,s,s)},
 w7(){var s=0,r=A.L(t.z),q
 var $async$w7=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:A.c0("prefs loading")
